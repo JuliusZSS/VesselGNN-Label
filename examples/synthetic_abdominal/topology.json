@@ -1,0 +1,9 @@
+{
+  "segments": ["seg_A", "seg_B", "seg_C", "seg_D", "seg_E"],
+  "connections": [
+    ["seg_A", "seg_B"],
+    ["seg_A", "seg_C"],
+    ["seg_A", "seg_D"],
+    ["seg_A", "seg_E"]
+  ]
+}

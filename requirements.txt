@@ -1,0 +1,5 @@
+numpy>=1.23
+scipy>=1.9
+torch>=1.13
+torch_geometric>=2.3
+vtk>=9.1
